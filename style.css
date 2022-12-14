@@ -550,7 +550,7 @@ header .fa-bars{
 
 
 
-.team {
+/* .team {
     display: flex;
     align-items: center;
     gap:2rem;
@@ -635,7 +635,7 @@ header .fa-bars{
 .contact .row form textarea{
     height: 15rem;
     resize: none;
-}
+} */
 
 .footer .box-container{
     display: flex;
